@@ -643,7 +643,7 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         <a href="https://github.com/devtayade">
             <img src="https://avatars.githubusercontent.com/u/84332795?v=4" width="100;" alt="devtayade"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>devtayade</b></sub>
         </a>
     </td></tr>
 <tr>
